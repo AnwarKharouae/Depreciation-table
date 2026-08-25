@@ -14,9 +14,9 @@ Open your terminal in VS Code inside the project directory.
 
 Install the required dependencies:
 
-Bash
-pip install pandas openpyxl
+
+-pip install pandas openpyxl
 Execute the program:
 
-Bash
-python main.py
+
+-python main.py
